@@ -2,7 +2,8 @@
 
 Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com).
 
-## Get access to the curriculm with this link: http://bit.ly/la-py-101
+### Get access to the curriculm with this link: 
+### bit.ly/la-py-101
 
 ### FAQ: 
 
