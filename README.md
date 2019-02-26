@@ -9,7 +9,6 @@ Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com
 
 - WIFI: `Hack Reactor Guest` | Password: plantlife
 - Kitchen outside back classroom door with Coffee & Tea!
-- Snacks + water in back of room
 
 ## Overview
 The goal of this brief course is to provide you with a fun introduction to the world of development with Python.
