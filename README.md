@@ -2,12 +2,11 @@
 
 Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com).
 
-Get to this repo by typing in URL: **py.sage.codes**
+## Get access to the curriculm with this link: http://bit.ly/la-py-101
 
 ### FAQ: 
 
-- WIFI: `Galvanize Guest Seattle` | Password: beapineapple
-- Bathrooms: Behind you down the hall to the left
+- WIFI: `Hack Reactor Guest` | Password: plantlife
 - Kitchen outside back classroom door with Coffee & Tea!
 - Snacks + water in back of room
 
@@ -58,14 +57,14 @@ Get the most out of this workshop! We'll occasionally do a "CHALLENGE" where I g
 
 ## About me:
 
-Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist here at Galvanize! For the past decade I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love making things with technology! I'm Currently learning more about computer vision and deep learning deep learning!
+Hello I'm [Elliott Saslow](https://twitter.com/@ElliottSaslow). I'm a Technology Evangelist here at Galvanize! For the past decade I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love making things with technology! I'm Currently learning more about computer vision and deep learning deep learning!
 
 **Note:** I'm not a Galvanize Instructor, they're way better at teaching!
 
-- Website: [sageelliott.com](http://sageelliott.com/)
-- Twitter: [@sagecodes](https://twitter.com/@sagecodes)
-- LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
-- Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
+- Website: [elliottsaslow.com](http://elliottsaslow.com/)
+- Twitter: [@elliottsaslow](https://twitter.com/@ElliottSaslow)
+- LinkedIn: [ElliottSaslow](https://www.linkedin.com/in/elliott-saslow) 
+- Email: [elliott.saslow@galvanize.com](mailto:elliott.saslow@galvanize.com)
 
 Reach out to me if interested in:
 
@@ -154,7 +153,7 @@ Think of it as naming a piece of data.
 
 its common in programming languages to have a keyword before the variable such as `var` or `int`, but python does not need this. 
 
-- `twitter = "@sagecodes";`
+- `twitter = "@elliottsaslow";`
 - `score = 0;`
 
 --------
@@ -770,7 +769,7 @@ What are some ideas for improvements?
 
 ### Keep learning!
 
-[PuPPy](https://www.meetup.com/PSPPython/) is an awesome python group in Seattle! 
+
 
 More learning resources:
 
@@ -795,13 +794,6 @@ More learning resources:
 
 We host so many events! check out our [calendar](https://www.galvanize.com/events)
 
-Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
-
-[JavaScript Mini Bootcamp: Fundamentals I](https://www.eventbrite.com/e/javascript-mini-bootcamp-fundamentals-i-tickets-54952026992) - 2/23/19 10am - 4:30pm
-
-[JavaScript 101](https://www.eventbrite.com/e/javascript-101-tickets-54952136319) - 2/27/19 6:30 - 8:30pm
-
-[Intro to data Science with python](https://www.eventbrite.com/e/intro-to-data-science-with-python-tickets-56531983685) 3/7/19 6:30 - 8:30pm
 
 ## What is Galvanize?
 
@@ -827,11 +819,10 @@ Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) me
 Please feel free to reach out to me with any questions! Let me know what you're planning to do next and how I can help!
 
 
-- Website: [sageelliott.com](http://sageelliott.com/)
-- Twitter: [@sagecodes](https://twitter.com/@sagecodes)
-- LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
-- Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
-
+- Website: [elliottsaslow.com](http://elliottsaslow.com/)
+- Twitter: [@elliottsaslow](https://twitter.com/@ElliottSaslow)
+- LinkedIn: [ElliottSaslow](https://www.linkedin.com/in/elliott-saslow) 
+- Email: [elliott.saslow@galvanize.com](mailto:elliott.saslow@galvanize.com)
 
 
 
